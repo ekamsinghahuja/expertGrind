@@ -71,7 +71,7 @@ void solve(){
 }
 
  
-int main(){
+int main() {
     ll t;
     cin>>t;
     
